@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Wisp</title>
+    <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast.xml</link>
+    <item>
+      <title>Wisp 1.3.0</title>
+      <pubDate>Fri, 25 Sep 2026 18:15:54 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Wisp 1.3.0</h3><ul><li><b>Updates install themselves.</b> Wisp now checks for new versions and installs them in one click.</li><li><b>Never stuck on "overloaded".</b> If a Gemini model is busy, Wisp tries your key's other Gemini models until one answers.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.3.0.dmg" sparkle:edSignature="3XuUCwd47Fj8vm0D/xir+TNmeNT8u2i1CiYPNwpVluS4JJHRu278xI0J+CqDcIs97poavHHP0RG2hiaqciuYCQ==" length="3556607" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
