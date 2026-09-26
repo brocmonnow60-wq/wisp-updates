@@ -4,13 +4,13 @@
     <title>Wisp</title>
     <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast.xml</link>
     <item>
-      <title>Wisp 1.3.1</title>
-      <pubDate>Fri, 25 Sep 2026 18:50:19 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <title>Wisp 1.3.2</title>
+      <pubDate>Sat, 26 Sep 2026 20:05:45 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>Wisp 1.3.1</h3><ul><li>Adds support for the new pay-once <b>Wisp Lifetime</b> license.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.3.1.dmg" sparkle:edSignature="8FfHcxWOZjcoVD/hhdQhVx+O+dlJOZHrr9C9lCdoxurOgwXHMGweOGK3omAk6jQEJaxsn/F1IDWIzpDDWwDPCA==" length="3559559" type="application/octet-stream" />
+      <description><![CDATA[<ul><li><b>Fixed:</b> on some Macs every capture failed with a text-recognition error. Wisp now retries, and if reading the text still fails it sends the picture to the AI instead of giving up.</li><li><b>Faster first capture:</b> Wisp gets its text reader ready when it opens.</li><li><b>New:</b> grab the faint Invisible Ink words and drag them anywhere. Wisp remembers the spot, and clicks beside the words still go to the app underneath.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.3.2.dmg" sparkle:edSignature="f/9X2GCsNL2RVnLvq7NkafhmPbGxq401y7uB4c2ku5sFdv2Hvgq8nGFwEd2FjwlZIksWqkDskQS5eRuNGmdMDw==" length="3576610" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
