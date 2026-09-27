@@ -4,13 +4,13 @@
     <title>Wisp</title>
     <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast.xml</link>
     <item>
-      <title>Wisp 1.3.3</title>
-      <pubDate>Sun, 27 Sep 2026 15:00:25 +0000</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+      <title>Wisp 1.4.0</title>
+      <pubDate>Sun, 27 Sep 2026 15:10:54 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>Fixed:</b> when a Gemini model hung for a long time before saying it was overloaded, Wisp gave up instead of trying your other Gemini models. Now each model gets about 25 seconds, then Wisp moves on to the next one.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.3.3.dmg" sparkle:edSignature="9u5OfIf5DrEDA2I3RowrSU7lETNbmXJe0XPRS2iJbfX0pfJKi6FM26J+sOAlL9USjIibA9mAgOhDE3BN50RSAQ==" length="3594887" type="application/octet-stream" />
+      <description><![CDATA[<ul><li><b>New: Wisp Free.</b> Without a license key, Wisp now works as Wisp Free (Answer mode, 15 answers a day) instead of locking. Your license unlocks everything, same as before.</li><li>If a monthly plan ends, Wisp drops to Free instead of stopping.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.4.0.dmg" sparkle:edSignature="Sf8SZdwgzRuoOeLmv4nUM1/QLoedGBOqFJa2yUsztODNHm0mC12Xxos757uIvAmobXxZwPuEHKZhcHDS3kJYDA==" length="3633818" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
