@@ -4,13 +4,13 @@
     <title>Wisp</title>
     <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast.xml</link>
     <item>
-      <title>Wisp 1.4.1</title>
-      <pubDate>Mon, 28 Sep 2026 21:43:20 +0000</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <title>Wisp 1.4.2</title>
+      <pubDate>Mon, 28 Sep 2026 22:42:07 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>New: Stick with the model that worked (on by default).</b> When your Gemini model is busy and Wisp finds another one that answers, it keeps using that one next time, so you don’t wait on the busy model again. You can turn it off or pick a model yourself in Settings.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.4.1.dmg" sparkle:edSignature="lCer63dX/oNiUPkg+WgEMTDvtJVsLUGKr//F0D4WJkq2qLv3vzruOp4plvYsMC9t6Exr9ySh9rLM59w5qL3GDg==" length="3639688" type="application/octet-stream" />
+      <description><![CDATA[<ul><li><b>Smarter fallback when Gemini is busy.</b> Wisp now skips special-purpose Gemini models that can’t answer questions (they used to stop the fallback with an error), and it reaches more backup models, including the Lite ones with bigger free quotas.</li><li>If your free Gemini quota is used up for the day, Wisp now says so and tells you when it resets.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.4.2.dmg" sparkle:edSignature="LoDgzqIJCZmiahEWe23F4DqZyI+CsVOJy6bYW/9aBWR5hDaCeqoKqXRF7f4r3a9wHCocyI4MLCU2XrgSxubfDg==" length="3647017" type="application/octet-stream" />
     </item>
   </channel>
 </rss>

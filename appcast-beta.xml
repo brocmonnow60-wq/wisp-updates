@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Wisp Beta</title>
+    <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast-beta.xml</link>
+    <item>
+      <title>Wisp Beta 1.5.0</title>
+      <pubDate>Mon, 28 Sep 2026 22:44:06 +0000</pubDate>
+      <sparkle:version>1504</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Wisp Beta 1.5.0: meet Wisp Agent.</b> Press ⌃⌥A, tell Wisp what to do, and watch it click and type for you. It asks before it sends, buys or deletes anything, and you can stop it anytime with Esc.</li><li>Everything else from Wisp 1.4.2 is included.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-Beta-1.5.0.dmg" sparkle:edSignature="YFsNX+w3wdplpIYATt7IjyLABWHaBRKmc7LKd30biUWMgknBo/WXf7vepMtvSDwowI9ae9NZqynz8fNSzdvFBA==" length="4773202" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
