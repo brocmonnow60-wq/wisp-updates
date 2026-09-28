@@ -4,13 +4,13 @@
     <title>Wisp</title>
     <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast.xml</link>
     <item>
-      <title>Wisp 1.4.0</title>
-      <pubDate>Sun, 27 Sep 2026 15:10:54 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <title>Wisp 1.4.1</title>
+      <pubDate>Mon, 28 Sep 2026 21:43:20 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>New: Wisp Free.</b> Without a license key, Wisp now works as Wisp Free (Answer mode, 15 answers a day) instead of locking. Your license unlocks everything, same as before.</li><li>If a monthly plan ends, Wisp drops to Free instead of stopping.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.4.0.dmg" sparkle:edSignature="Sf8SZdwgzRuoOeLmv4nUM1/QLoedGBOqFJa2yUsztODNHm0mC12Xxos757uIvAmobXxZwPuEHKZhcHDS3kJYDA==" length="3633818" type="application/octet-stream" />
+      <description><![CDATA[<ul><li><b>New: Stick with the model that worked (on by default).</b> When your Gemini model is busy and Wisp finds another one that answers, it keeps using that one next time, so you don’t wait on the busy model again. You can turn it off or pick a model yourself in Settings.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-1.4.1.dmg" sparkle:edSignature="lCer63dX/oNiUPkg+WgEMTDvtJVsLUGKr//F0D4WJkq2qLv3vzruOp4plvYsMC9t6Exr9ySh9rLM59w5qL3GDg==" length="3639688" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
