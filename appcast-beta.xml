@@ -4,13 +4,13 @@
     <title>Wisp Beta</title>
     <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast-beta.xml</link>
     <item>
-      <title>Wisp Beta 1.5.2</title>
-      <pubDate>Tue, 29 Sep 2026 12:50:10 +0000</pubDate>
-      <sparkle:version>1506</sparkle:version>
-      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <title>Wisp Beta 1.5.3</title>
+      <pubDate>Tue, 29 Sep 2026 13:18:09 +0000</pubDate>
+      <sparkle:version>1507</sparkle:version>
+      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>Talk to Wisp.</b> Hold ⌃⌥Space, say what you want, and let go. It uses your Mac’s own speech recognition, free and on your Mac.</li><li><b>Follow-up questions.</b> Ask “explain that simpler” or “give me an example” right under any answer, by typing or talking.</li><li><b>Flashcards mode.</b> Turn any notes or page into flashcards you can flip through, then copy them to Quizlet or save them for Anki.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-Beta-1.5.2.dmg" sparkle:edSignature="YUKvk8WzMe0mnfNTODFjZ0Y2DHfNws1+oRICMmj2tHiXswWLHiisPN82uO5F7QfjhDcfjNIPwzuswXudraLQDQ==" length="4980698" type="application/octet-stream" />
+      <description><![CDATA[<ul><li><b>Talk to Wisp fixes.</b> When Wisp can’t hear you, it now tells you why (for example, how to turn on Dictation if your Mac’s speech engine is switched off) instead of doing nothing.</li><li>Macs without a microphone no longer crash when you press the mic, and Wisp always listens through the mic you’re using right now.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-Beta-1.5.3.dmg" sparkle:edSignature="b5i/980/q49pRXoAYkX9uOAP17sPJEn1ryY+BWep4OT93wTDS9hFpUfLoluX+/C8OhpaFIFuUmc6LSw/YZ7BCA==" length="4987719" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
