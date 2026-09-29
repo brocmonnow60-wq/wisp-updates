@@ -4,13 +4,13 @@
     <title>Wisp Beta</title>
     <link>https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/appcast-beta.xml</link>
     <item>
-      <title>Wisp Beta 1.5.1</title>
-      <pubDate>Mon, 28 Sep 2026 23:04:05 +0000</pubDate>
-      <sparkle:version>1505</sparkle:version>
-      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <title>Wisp Beta 1.5.2</title>
+      <pubDate>Tue, 29 Sep 2026 12:50:10 +0000</pubDate>
+      <sparkle:version>1506</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li><b>Smoother agent tasks.</b> Wisp Agent no longer presses ⌘M (which hides the window on a Mac) when it means “new slide”, and if Gemini sends back an empty reply it tries the next model instead of stopping.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-Beta-1.5.1.dmg" sparkle:edSignature="r+J7W/fvW+4kqeGtd+FYArXUxgVapsxHUAQGMfkAijxWrME0nbKjyyuhchcso1N+fZrstyEE7MQndm2/i4lqDQ==" length="4777231" type="application/octet-stream" />
+      <description><![CDATA[<ul><li><b>Talk to Wisp.</b> Hold ⌃⌥Space, say what you want, and let go. It uses your Mac’s own speech recognition, free and on your Mac.</li><li><b>Follow-up questions.</b> Ask “explain that simpler” or “give me an example” right under any answer, by typing or talking.</li><li><b>Flashcards mode.</b> Turn any notes or page into flashcards you can flip through, then copy them to Quizlet or save them for Anki.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/brocmonnow60-wq/wisp-updates/main/Wisp-Beta-1.5.2.dmg" sparkle:edSignature="YUKvk8WzMe0mnfNTODFjZ0Y2DHfNws1+oRICMmj2tHiXswWLHiisPN82uO5F7QfjhDcfjNIPwzuswXudraLQDQ==" length="4980698" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
